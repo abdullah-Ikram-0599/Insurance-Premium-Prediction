@@ -12,8 +12,8 @@ class PredictPipeline:
 
         try: 
 
-            model_path = "C:/Users/91999/Desktop/VSCode/Insurance-Premium-Prediction/artifacts/model.pkl"
-            preprocessor_path = "C:/Users/91999/Desktop/VSCode/Insurance-Premium-Prediction/artifacts/preprocessor.pkl"
+            model_path = "artifacts\model.pkl"
+            preprocessor_path = "artifacts\preprocessor.pkl"
 
             model = load_object(file_path = model_path)
             preprocessor = load_object(file_path=preprocessor_path)
