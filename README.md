@@ -1,4 +1,4 @@
-# Insurance Premium Prediction with CI/CD Deployment on AWS Cloud using AWS Elastic Beanstalk and AWS Code Pipeline
+# Insurance Premium Prediction with CI/CD Deployment
 
 This repository contains an end-to-end machine learning project for predicting insurance premiums. The project utilizes various machine learning models and selects the best-performing model for deployment. It is deployed on AWS Elastic Beanstalk with CI/CD pipelines using AWS CodePipeline. The code is modular, uses logging for easier debugging, and follows best practices for production-grade development.
 
